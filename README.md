@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am **software engineer** at Croatia osiguranje d.d. finished studying IT at the University of Zagreb.
+
+###### *In case that you had not catch it yet, I like to use Github for my personal projects.
+
 <!--
 **mmatokovi/mmatokovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
