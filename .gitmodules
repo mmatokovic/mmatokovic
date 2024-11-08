@@ -1,0 +1,3 @@
+[submodule "themes/sleeve"]
+	path = themes/sleeve
+	url = git@github.com:mmatokovic/sleeve.git
