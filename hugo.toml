@@ -1,0 +1,65 @@
+baseURL = 'https://mmatokovic.dev/'
+languageCode = 'hr'
+title = 'mmatokovic'
+defaultContentLanguage = 'hr'
+theme = "sleeve"
+
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+
+[languages]
+  [languages.hr]
+    languageCode = 'hr'
+    languageName = 'Hrvatski'
+    contentDir = 'content/hr'
+    weight = 1
+    [languages.hr.menus]
+      [[languages.hr.menus.main]]
+        name = 'Home'
+        pageRef = '/'
+        identifier = 'Početna'
+        weight = 10
+      [[languages.hr.menus.main]]
+        name = 'Posts'
+        pageRef = '/posts'
+        identifier = 'blog'
+        weight = 20
+      [[languages.hr.menus.main]]
+        name = 'Tags'
+        pageRef = '/tags'
+        identifier = 'oznake'
+        weight = 30
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 2
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Projects'
+        pageRef = '/projects'
+        identifier = 'projects'
+        weight = 10
+
+[module]
+    [module.hugoVersion]
+        min = "0.135.0"
+    [[module.mounts]]
+        source = "assets"
+        target = "assets"
+    [[module.mounts]]
+        source = "content"
+        target = "content"
+    [[module.mounts]]
+        source       = "hugo_stats.json"
+        target       = "assets/notwatching/hugo_stats.json"
+        disableWatch = true
+[build.buildStats]
+    enable = true
+[[build.cachebusters]]
+    source = "assets/notwatching/hugo_stats\\.json"
+    target = "css"
+[[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
