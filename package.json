@@ -1,0 +1,16 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@tailwindcss/cli": "sleeve",
+      "tailwindcss": "sleeve"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tailwindcss/cli": "4.0.0-alpha.31",
+    "tailwindcss": "4.0.0-alpha.31"
+  },
+  "name": "mmatokovic",
+  "version": "0.1.0"
+}
