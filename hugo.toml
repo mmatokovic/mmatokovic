@@ -3,10 +3,23 @@ languageCode = 'hr'
 title = 'mmatokovic'
 defaultContentLanguage = 'hr'
 theme = "sleeve"
-
 enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
+
+[params]
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
+  [params.author]
+    name = "mmatokovic"
+    email = 'mislav.mat@hotmail.com'
+  # For image jslibs/gallery
+  [params.gallery]
+    shuffle     = false
+    reverse     = true
+    enable_exif = false
+
+[pagination]
+  pagerSize = 10
 
 [languages]
   [languages.hr]
@@ -16,9 +29,9 @@ enableEmoji = true
     weight = 1
     [languages.hr.menus]
       [[languages.hr.menus.main]]
-        name = 'Home'
+        name = 'Početna'
         pageRef = '/'
-        identifier = 'Početna'
+        identifier = 'home'
         weight = 10
       [[languages.hr.menus.main]]
         name = 'Posts'
@@ -26,9 +39,9 @@ enableEmoji = true
         identifier = 'blog'
         weight = 20
       [[languages.hr.menus.main]]
-        name = 'Tags'
-        pageRef = '/tags'
-        identifier = 'oznake'
+        name = 'Projekti'
+        pageRef = '/projects'
+        identifier = 'projects'
         weight = 30
   [languages.en]
     languageCode = 'en'
@@ -42,6 +55,12 @@ enableEmoji = true
         identifier = 'projects'
         weight = 10
 
+[frontmatter]
+  date = ['date', 'publishDate', 'pubdate', 'lastmod', 'modified']
+  expiryDate = ['expiryDate', 'unpublishdate']
+  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishDate', 'pubdate']
+  publishDate = ['publishDate', 'pubdate', 'date']
+
 [module]
     [module.hugoVersion]
         min = "0.135.0"
@@ -49,12 +68,25 @@ enableEmoji = true
         source = "assets"
         target = "assets"
     [[module.mounts]]
-        source = "content"
-        target = "content"
+        source = "layouts"
+        target = "layouts"
+    [[module.mounts]]
+      source = "data"
+      target = "data"
     [[module.mounts]]
         source       = "hugo_stats.json"
         target       = "assets/notwatching/hugo_stats.json"
         disableWatch = true
+    [[module.mounts]]
+      source = "node_modules/alpinejs/dist"
+      target = "assets/js/lib/alpinejs"
+    [[module.mounts]]
+      source = "node_modules/alpine-turbo-drive-adapter/dist"
+      target = "assets/js/lib/alpinejs-turbolinks"
+    [[module.mounts]]
+      source = "node_modules/@hotwired/turbo/dist"
+      target = "assets/js/lib/turbo"
+
 [build.buildStats]
     enable = true
 [[build.cachebusters]]
@@ -63,3 +95,6 @@ enableEmoji = true
 [[build.cachebusters]]
     source = "(postcss|tailwind)\\.config\\.js"
     target = "css"
+[[build.cachebusters]]
+    source = 'layouts/.*'
+    target = 'css'
