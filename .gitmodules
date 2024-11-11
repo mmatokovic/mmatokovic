@@ -1,6 +1,6 @@
 [submodule "themes/sleeve"]
 	path = themes/sleeve
 	url = https://github.com/mmatokovic/sleeve.git
-# cd themes/sleeve; git checkout main && git pull; cd ..
-# git add themes/sleeve; git commit -m "updating submodule to latest"
+# cd themes/sleeve; git checkout main && git pull; cd ../..
+# git add themes/sleeve; git commit -m "updating submodule to latest";
 
