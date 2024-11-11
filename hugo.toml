@@ -31,18 +31,33 @@ enableEmoji = true
       [[languages.hr.menus.main]]
         name = 'Početna'
         pageRef = '/'
-        identifier = 'home'
+        identifier = 'pocetna'
         weight = 10
       [[languages.hr.menus.main]]
-        name = 'Posts'
+        name = 'Articles'
         pageRef = '/posts'
         identifier = 'blog'
         weight = 20
       [[languages.hr.menus.main]]
-        name = 'Projekti'
+        name = 'Svi Projekti'
         pageRef = '/projects'
-        identifier = 'projects'
+        identifier = 'projekti'
         weight = 30
+      [[languages.hr.menus.main]]
+        name = 'Kontaktiraj me'
+        pageRef = '/contact'
+        identifier = 'kontakt'
+        weight = 40
+      [[languages.hr.menus.main]]
+        name = 'O meni'
+        pageRef = '/about'
+        identifier = 'o-meni'
+        weight = 50
+      [[languages.hr.menus.main]]
+        name = 'Topics'
+        pageRef = '/tags'
+        identifier = 'oznake'
+        weight = 50
   [languages.en]
     languageCode = 'en'
     languageName = 'English'
@@ -50,7 +65,7 @@ enableEmoji = true
     weight = 2
     [languages.en.menus]
       [[languages.en.menus.main]]
-        name = 'Projects'
+        name = 'All Projects'
         pageRef = '/projects'
         identifier = 'projects'
         weight = 10
@@ -79,13 +94,13 @@ enableEmoji = true
         disableWatch = true
     [[module.mounts]]
       source = "node_modules/alpinejs/dist"
-      target = "assets/js/lib/alpinejs"
+      target = "assets/js/libs/alpinejs"
     [[module.mounts]]
       source = "node_modules/alpine-turbo-drive-adapter/dist"
-      target = "assets/js/lib/alpinejs-turbolinks"
+      target = "assets/js/libs/alpinejs-turbolinks"
     [[module.mounts]]
       source = "node_modules/@hotwired/turbo/dist"
-      target = "assets/js/lib/turbo"
+      target = "assets/js/libs/turbo"
 
 [build.buildStats]
     enable = true
@@ -98,3 +113,9 @@ enableEmoji = true
 [[build.cachebusters]]
     source = 'layouts/.*'
     target = 'css'
+
+# To apply attributes to a [standalone image element](https://gohugo.io/content-management/markdown-attributes/#standalone-images), you must disable the default wrapping behavior:
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false

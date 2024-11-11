@@ -5,4 +5,8 @@ public/
 hugo_stats.json
 # Local Netlify folder
 .netlify
+.frontmatter
+.vscode
 yarn-error.log
+frontmatter.json
+package.hugo.json
