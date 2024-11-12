@@ -2,17 +2,19 @@ baseURL = 'https://mmatokovic.dev/'
 languageCode = 'hr'
 title = 'mmatokovic'
 defaultContentLanguage = 'hr'
-theme = "sleeve"
+theme = 'sleeve'
 enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
 
 [params]
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
+  alpine = true
   [params.author]
     name = "mmatokovic"
     email = 'mislav.mat@hotmail.com'
-  # For image jslibs/gallery
+    github = ''
+    linkedin = ''
   [params.gallery]
     shuffle     = false
     reverse     = true
@@ -20,6 +22,10 @@ enableEmoji = true
 
 [pagination]
   pagerSize = 10
+
+[taxonomies]
+  series = 'series'
+  tag = 'tags'
 
 [languages]
   [languages.hr]
@@ -41,7 +47,7 @@ enableEmoji = true
       [[languages.hr.menus.main]]
         name = 'Svi Projekti'
         pageRef = '/projects'
-        identifier = 'projekti'
+        identifier = 'projects'
         weight = 30
       [[languages.hr.menus.main]]
         name = 'Kontaktiraj me'
@@ -77,42 +83,43 @@ enableEmoji = true
   publishDate = ['publishDate', 'pubdate', 'date']
 
 [module]
-    [module.hugoVersion]
-        min = "0.135.0"
-    [[module.mounts]]
-        source = "assets"
-        target = "assets"
-    [[module.mounts]]
-        source = "layouts"
-        target = "layouts"
-    [[module.mounts]]
-      source = "data"
-      target = "data"
-    [[module.mounts]]
-        source       = "hugo_stats.json"
-        target       = "assets/notwatching/hugo_stats.json"
-        disableWatch = true
-    [[module.mounts]]
-      source = "node_modules/alpinejs/dist"
-      target = "assets/js/libs/alpinejs"
-    [[module.mounts]]
-      source = "node_modules/alpine-turbo-drive-adapter/dist"
-      target = "assets/js/libs/alpinejs-turbolinks"
-    [[module.mounts]]
-      source = "node_modules/@hotwired/turbo/dist"
-      target = "assets/js/libs/turbo"
+  [module.hugoVersion]
+    extended = true
+    min = "0.135.0"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source       = "hugo_stats.json"
+    target       = "assets/notwatching/hugo_stats.json"
+    disableWatch = true
+  [[module.mounts]]
+    source = "node_modules/alpinejs/dist"
+    target = "assets/js/libs/alpinejs"
+  [[module.mounts]]
+    source = "node_modules/alpine-turbo-drive-adapter/dist"
+    target = "assets/js/libs/alpinejs-turbolinks"
+  [[module.mounts]]
+    source = "node_modules/@hotwired/turbo/dist"
+    target = "assets/js/libs/turbo"
 
 [build.buildStats]
-    enable = true
+  enable = true
 [[build.cachebusters]]
-    source = "assets/notwatching/hugo_stats\\.json"
-    target = "css"
+  source = "assets/notwatching/hugo_stats\\.json"
+  target = "css"
 [[build.cachebusters]]
-    source = "(postcss|tailwind)\\.config\\.js"
-    target = "css"
+  source = "(postcss|tailwind)\\.config\\.js"
+  target = "css"
 [[build.cachebusters]]
-    source = 'layouts/.*'
-    target = 'css'
+  source = 'layouts/.*'
+  target = 'css'
 
 # To apply attributes to a [standalone image element](https://gohugo.io/content-management/markdown-attributes/#standalone-images), you must disable the default wrapping behavior:
 [markup]
