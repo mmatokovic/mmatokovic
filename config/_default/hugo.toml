@@ -10,6 +10,7 @@ enableEmoji = true
 [params]
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
+  turbo = false
   [params.author]
     name = "mmatokovic"
     email = 'mislav.mat@hotmail.com'
@@ -24,8 +25,9 @@ enableEmoji = true
   pagerSize = 10
 
 [taxonomies]
-  series = 'series'
   tag = 'tags'
+  series = 'series'
+  genre = 'genres'
 
 [languages]
   [languages.hr]
@@ -42,13 +44,8 @@ enableEmoji = true
       [[languages.hr.menus.main]]
         name = 'Articles'
         pageRef = '/posts'
-        identifier = 'blog'
+        identifier = 'posts'
         weight = 20
-      [[languages.hr.menus.main]]
-        name = 'Svi Projekti'
-        pageRef = '/projects'
-        identifier = 'projects'
-        weight = 30
       [[languages.hr.menus.main]]
         name = 'Kontaktiraj me'
         pageRef = '/contact'
@@ -63,18 +60,17 @@ enableEmoji = true
         name = 'Topics'
         pageRef = '/tags'
         identifier = 'oznake'
-        weight = 50
+        weight = 70
+      [[languages.hr.menus.main]]
+        name = 'My Library'
+        pageRef = '/books'
+        identifier = 'books'
+        weight = 60
   [languages.en]
     languageCode = 'en'
     languageName = 'English'
     contentDir = 'content/en'
     weight = 2
-    [languages.en.menus]
-      [[languages.en.menus.main]]
-        name = 'All Projects'
-        pageRef = '/projects'
-        identifier = 'projects'
-        weight = 10
 
 [frontmatter]
   date = ['date', 'publishDate', 'pubdate', 'lastmod', 'modified']
