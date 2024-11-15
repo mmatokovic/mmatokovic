@@ -8,7 +8,6 @@
       "@tailwindcss/typography": "sleeve",
       "alpine-turbo-drive-adapter": "project",
       "alpinejs": "project",
-      "instant.page": "project",
       "tailwindcss": "project"
     }
   },
@@ -20,7 +19,6 @@
     "@tailwindcss/typography": "^0.5.15",
     "alpine-turbo-drive-adapter": "^2.1.0",
     "alpinejs": "^3.14.3",
-    "instant.page": "^5.2.0",
     "tailwindcss": "4.0.0-alpha.31"
   },
   "name": "mmatokovic",

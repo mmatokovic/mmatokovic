@@ -1,16 +1,16 @@
 [
   {
-    "author": "Victor Hugo",
-    "cover": "https://gohugo.io/shared/examples/images/the-hunchback-of-notre-dame.webp",
-    "date": "2024-05-06",
-    "isbn": "978-0140443530",
+    "author": "Paulo Coelho",
+    "cover": "https://covers.openlibrary.org/b/id/11556110-L.jpg",
+    "date": "2018-04-19",
+    "isbn": "5344000030, 5220003267",
     "rating": 4,
-    "summary": "In the vaulted Gothic towers of **Notre-Dame Cathedral** lives Quasimodo, the hunchbacked bellringer. Mocked and shunned for his appearance, he is pitied only by Esmerelda, a beautiful gypsy dancer to whom he becomes completely devoted. Esmerelda, however, has also attracted the attention of the sinister archdeacon Claude Frollo, and when she rejects his lecherous approaches, Frollo hatches a plot to destroy her, that only Quasimodo can prevent. Victor Hugo's sensational, evocative novel brings life to the medieval Paris he loved, and mourns its passing in one of the greatest historical romances of the nineteenth century.",
-    "tags": [
-      "fiction",
-      "historical"
+    "summary": "Combining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.",
+    "tags": [],
+    "genres": [
+      "fiction"
     ],
-    "title": "The Hunchback of Notre Dame"
+    "title": "The Alchemist"
   },
   {
     "author": "Victor Hugo",
@@ -50,6 +50,6 @@
       "nonfiction",
       "revolution"
     ],
-    "title": "Interpreting the French Revolution"
+    "title": "Interpreting the Croatian Revolution"
   }
 ]
