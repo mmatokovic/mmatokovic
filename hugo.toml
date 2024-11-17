@@ -10,7 +10,7 @@ enableEmoji = true
 [params]
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
-  turbo = false
+  turbo = true
   [params.author]
     name = "mmatokovic"
     email = 'me@mmatokovic.dev'
@@ -117,8 +117,10 @@ enableEmoji = true
   source = 'layouts/.*'
   target = 'css'
 
-# To apply attributes to a [standalone image element](https://gohugo.io/content-management/markdown-attributes/#standalone-images), you must disable the default wrapping behavior:
+# Set markup.goldmark.parser.wrapStandAloneImageWithinParagraph = false so standalone images will not be wrapped in <p>>/p> tags. Also set block = true to support attributes on block elements:
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
