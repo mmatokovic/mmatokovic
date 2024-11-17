@@ -8,4 +8,4 @@ mmatokovic.dev Mislav Matoković. I’m a software developer from Croatia.
 
 Find me at GitHub, LinkedIn. When I have something clever to say, I scribble it down.
 
-You can reach me at mislav.mat@hotmail.com.
+You can reach me at me@mmatokovic.dev.

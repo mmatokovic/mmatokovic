@@ -13,4 +13,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pretium tempor ur
 
 ---
 
-Want to get in touch? Drop me a line at [mislav.mat@hotmail.com](mailto:mislav.mat@hotmail.com) or fill out a contact form [here](/contact).
+Want to get in touch? Drop me a line at [me@mmatokovic.dev](mailto:me@mmatokovic.dev) or fill out a contact form [here](/contact).
