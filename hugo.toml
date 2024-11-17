@@ -13,7 +13,7 @@ enableEmoji = true
   turbo = false
   [params.author]
     name = "mmatokovic"
-    email = 'mislav.mat@hotmail.com'
+    email = 'me@mmatokovic.dev'
     github = ''
     linkedin = ''
   [params.gallery]
@@ -22,7 +22,7 @@ enableEmoji = true
     enable_exif = false
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 9
 
 [taxonomies]
   tag = 'tags'
