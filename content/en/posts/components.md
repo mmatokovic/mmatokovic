@@ -224,9 +224,6 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-## Videos
-
-{{< youtube mPFpaGFlqHo >}}
 
 ## Comments
 
@@ -242,7 +239,7 @@ Block comments can span multiple lines.
 %%
 ```
 
-## Callouts / Alerts  
+## Callouts
 
 > [!info] 
 > 
@@ -272,5 +269,3 @@ Duplicated footnote reference[^second].
     and multiple paragraphs.
 
 [^second]: Footnote text.
-
-{{% comment %}} TODO: rewrite the paragraph below. {{% /comment %}}

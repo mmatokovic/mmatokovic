@@ -1,6 +1,5 @@
 +++
-title = 'O meni'
-slug = 'o-meni'
+title = 'About Me'
 type = 'miscellaneous'
 +++
 

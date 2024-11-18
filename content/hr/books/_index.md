@@ -1,3 +1,4 @@
 +++
-title = 'Books'
+title = 'Moja Knjižnica'
+slug = 'knjiznica'
 +++
