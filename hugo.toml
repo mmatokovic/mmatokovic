@@ -1,6 +1,6 @@
 baseURL = 'https://misli.mmatokovic.dev/'
 languageCode = 'hr'
-title = 'misli'
+title = 'Misli'
 defaultContentLanguage = 'hr'
 theme = 'sleeve'
 enableRobotsTXT = true
