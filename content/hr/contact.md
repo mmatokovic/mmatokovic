@@ -1,5 +1,6 @@
 +++
-title = 'Contact Me'
+title = 'Kontaktiraj Me'
+slug = 'kontakt'
 type = 'miscellaneous'
 +++
 

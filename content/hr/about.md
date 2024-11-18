@@ -1,5 +1,6 @@
 +++
 title = 'O meni'
+slug = 'o-meni'
 type = 'miscellaneous'
 +++
 

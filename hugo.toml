@@ -39,38 +39,57 @@ enableEmoji = true
       [[languages.hr.menus.main]]
         name = 'Početna'
         pageRef = '/'
-        identifier = 'pocetna'
         weight = 10
       [[languages.hr.menus.main]]
-        name = 'Articles'
+        name = 'Članci'
         pageRef = '/posts'
-        identifier = 'posts'
         weight = 20
       [[languages.hr.menus.main]]
         name = 'Kontaktiraj me'
         pageRef = '/contact'
-        identifier = 'kontakt'
         weight = 40
       [[languages.hr.menus.main]]
         name = 'O meni'
         pageRef = '/about'
-        identifier = 'o-meni'
         weight = 50
       [[languages.hr.menus.main]]
-        name = 'Topics'
+        name = 'Teme'
         pageRef = '/tags'
-        identifier = 'oznake'
         weight = 70
       [[languages.hr.menus.main]]
-        name = 'My Library'
+        name = 'Moja Knjižnica'
         pageRef = '/books'
-        identifier = 'books'
         weight = 60
   [languages.en]
     languageCode = 'en'
     languageName = 'English'
     contentDir = 'content/en'
     weight = 2
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Početna'
+        pageRef = '/'
+        weight = 10
+      [[languages.en.menus.main]]
+        name = 'Articles'
+        pageRef = '/posts'
+        weight = 20
+      [[languages.en.menus.main]]
+        name = 'Contact Me'
+        pageRef = '/contact'
+        weight = 40
+      [[languages.en.menus.main]]
+        name = 'About Me'
+        pageRef = '/about'
+        weight = 50
+      [[languages.en.menus.main]]
+        name = 'Topics'
+        pageRef = '/tags'
+        weight = 70
+      [[languages.en.menus.main]]
+        name = 'My Library'
+        pageRef = '/books'
+        weight = 60
 
 [frontmatter]
   date = ['date', 'publishDate', 'pubdate', 'lastmod', 'modified']
@@ -81,7 +100,7 @@ enableEmoji = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.135.0"
+    min = "0.138.0"
   [[module.mounts]]
     source = "assets"
     target = "assets"
