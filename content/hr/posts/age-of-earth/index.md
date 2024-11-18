@@ -35,18 +35,17 @@ As geological theories evolved, so did the evidence for Earth's great age. In 18
 
 Similarly, in the late 19th century, European societies began to recognize evidence of early human life. The discovery of **Neanderthal fossils** in 1899 at **Hušnjakovo Brdo** in Croatia marked a significant milestone in understanding human origins. These fossils were linked to the idea of "cave men," creatures that lived long before modern humans and were seen as a crucial part of understanding humanity’s **primordial state**.
 
-![# Reconstruction of the fossil skeleton of "Lucy" the Australopithecus afarensis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/220px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg "Australopithecus")
-
 ### The Development of Scientific Dating Methods
 
 By the early 20th century, advancements in dating methods provided concrete evidence to support the idea of an ancient Earth. One significant breakthrough was the use of **uranium dating** to estimate the age of rocks and the Earth itself. This scientific technique confirmed the theories of Charles Lyell and others who had long argued that the Earth was far older than the biblical timeline suggested.
 
 In addition to the geological discoveries, the fossil record began to show evidence of early human ancestors. The discovery of **Lucy**, an early hominid in 1974, further cemented the idea that human evolution had been ongoing for millions of years. Lucy, an **Australopithecus afarensis**, lived around 3.2 million years ago and walked upright—an essential step in the evolution of humanity.
 
+![# Reconstruction of the fossil skeleton of "Lucy" the Australopithecus afarensis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/220px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg "Australopithecus")
 ### Conclusion
 
 The study of Earth’s age has dramatically changed our understanding of the planet and our place within it. From the mythological explanations of Ussher to the scientific breakthroughs of Hutton, Lyell, Darwin, and others, geology has evolved into a rigorous science. The evidence for an ancient Earth is now overwhelming, and each new discovery, whether it be fossils, ancient cave paintings, or advanced dating methods, further solidifies our understanding of Earth’s deep and complex history.
 
 [^1]: Charles Lyell's groundbreaking work, *Principles of Geology*, argued for the uniformitarianism theory, which stated that the Earth's geological processes are gradual and consistent over time, shaping the Earth's features through ongoing processes rather than cataclysmic events.
-[^2]: Freeman, R. B. (2007). [_Charles Darwin: A companion_](http://darwin-online.org.uk/content/frameset?itemID=A27b&viewtype=text&pageseq=114) (2nd online ed.). [The Complete Works of Charles Darwin Online](https://en.wikipedia.org/wiki/The_Complete_Works_of_Charles_Darwin_Online "The Complete Works of Charles Darwin Online"). pp. 107, 109. [Archived](https://web.archive.org/web/20141225163344/http://darwin-online.org.uk/content/frameset?itemID=A27b&viewtype=text&pageseq=114)
+[^2]: Freeman, R. B. (2007). [_Charles Darwin: A companion_](http://darwin-online.org.uk/content/frameset?itemID=A27b&viewtype=text&pageseq=114) (2nd online ed.). [The Complete Works of Charles Darwin Online](https://en.wikipedia.org/wiki/The_Complete_Works_of_Charles_Darwin_Online "The Complete Works of Charles Darwin Online"). pp. 107, 109. [Archived](https://web.archive.org/web/20141225163344/http://darwin-online.org.uk/content/frameset?itemID=A27b&viewtype=text&pageseq=114) from the original on 25 December 2014. Retrieved 25 December 2014.
 

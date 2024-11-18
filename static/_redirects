@@ -1,1 +1,3 @@
 # Redirect default subdomain to primary domain
+https://mmatokovic.netlify.app  https://mmatokovic.dev 301!
+http://mmatokovic.netlify.app  https://mmatokovic.dev 301!
