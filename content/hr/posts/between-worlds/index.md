@@ -3,7 +3,7 @@ title = 'Between Worlds: The Trance States of San Shamans'
 date = 2024-11-11T22:57:42+01:00
 draft = false
 tags = ['historical','trance']
-series = 'Rock Art'
+series = 'Rock art'
 +++
 
 Further information: San healing practices

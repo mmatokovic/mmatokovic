@@ -257,6 +257,12 @@ Block comments can span multiple lines.
 > [!example] 
 > Lorem ipsum dolor sit amet
 
+## Abbreviations
+
+*[HTML]: Hyper Text Markup Language
+
+<abbr title="World Wide Web">WWW</abbr>
+
 ## Footnotes
 
 Footnote 1 link[^first].

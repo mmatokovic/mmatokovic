@@ -10,13 +10,14 @@ enableEmoji = true
 [params]
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
-  turbo = true
+  turbo = false
+  gallery = true
   [params.author]
     name = "mmatokovic"
     email = 'me@mmatokovic.dev'
     github = ''
     linkedin = ''
-  [params.gallery]
+  [params.gallerydeluxe]
     shuffle     = false
     reverse     = true
     enable_exif = false
@@ -44,6 +45,10 @@ enableEmoji = true
         name = 'Članci'
         pageRef = '/posts'
         weight = 20
+      [[languages.hr.menus.main]]
+        name = 'Galerija'
+        pageRef = '/galleries'
+        weight = 30
       [[languages.hr.menus.main]]
         name = 'Kontaktiraj me'
         pageRef = '/contact'
@@ -100,7 +105,7 @@ enableEmoji = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.138.0"
+    min = "0.139.0"
   [[module.mounts]]
     source = "assets"
     target = "assets"
@@ -139,6 +144,8 @@ enableEmoji = true
 # Set markup.goldmark.parser.wrapStandAloneImageWithinParagraph = false so standalone images will not be wrapped in <p>>/p> tags. Also set block = true to support attributes on block elements:
 [markup]
   [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Allow HTML in md files
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
