@@ -4,8 +4,8 @@
     "devDependencies": {
       "@hotwired/turbo": "project",
       "@tailwindcss/cli": "project",
-      "@tailwindcss/forms": "sleeve",
-      "@tailwindcss/typography": "sleeve",
+      "@tailwindcss/forms": "project",
+      "@tailwindcss/typography": "project",
       "alpine-turbo-drive-adapter": "project",
       "alpinejs": "project",
       "tailwindcss": "project"
