@@ -1,12 +1,17 @@
-node_modules
-resources/
-public/
+# dependencies
+/node_modules
+package.hugo.json
+
+# testing
+/coverage
+
+# caches
+/.next/
+/.vscode/
+
+# production
+/public
+/resources
+.netlify
 .hugo_build.lock
 hugo_stats.json
-# Local Netlify folder
-.netlify
-.frontmatter
-.vscode
-yarn-error.log
-frontmatter.json
-package.hugo.json
