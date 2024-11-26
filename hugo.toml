@@ -10,7 +10,7 @@ enableEmoji = true
 [params]
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
-  turbo = false
+  turbo = true
   gallery = true
   [params.author]
     name = "mmatokovic"
