@@ -17,7 +17,7 @@
   {{/* Add page. */}}
   {{ $content := dict "mediaType" "text/markdown" "value" .summary }}
   {{ $dates := dict "date" (time.AsTime .date) }}
-  {{ $params := dict "author" .author "isbn" .isbn "rating" .rating "tags" .tags "genres" .genres }}
+  {{ $params := dict "author" .author "isbn" .isbn "rating" .rating "genres" .genres }}
   {{ $page := dict
     "content" $content
     "dates" $dates
