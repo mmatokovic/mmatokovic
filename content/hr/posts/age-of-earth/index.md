@@ -4,6 +4,7 @@ date = 2024-11-11T18:40:03+01:00
 draft = false
 tags = ['historical']
 series = 'Rock art'
+thumbnail = 'apr2015_h07_chauvetcave.webp'
 +++
 
 The story of Earth's age is a fascinating journey through time, blending mythology, scientific inquiry, and revolutionary ideas. It begins with the work of James Ussher, an Irish bishop in the 17th century, who famously calculated the Earth's creation date as **4004 BC**, using the Bible as his primary source material. At the time, mythological and religious texts were often seen as the authoritative guides to the world’s history, and Ussher's conclusion was widely accepted.

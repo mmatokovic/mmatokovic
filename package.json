@@ -2,28 +2,25 @@
   "comments": {
     "dependencies": {},
     "devDependencies": {
-      "@hotwired/turbo": "project",
-      "@tailwindcss/cli": "project",
-      "@tailwindcss/forms": "project",
-      "@tailwindcss/postcss": "project",
-      "@tailwindcss/typography": "project",
-      "alpine-turbo-drive-adapter": "project",
-      "alpinejs": "project",
+      "@hotwired/turbo": "sleeve",
+      "@tailwindcss/forms": "sleeve",
+      "@tailwindcss/postcss": "sleeve",
+      "@tailwindcss/typography": "sleeve",
+      "alpine-turbo-drive-adapter": "sleeve",
+      "alpinejs": "sleeve",
       "postcss-cli": "sleeve",
-      "tailwindcss": "project"
+      "tailwindcss": "sleeve"
     }
   },
-  "dependencies": {},
   "devDependencies": {
-    "@hotwired/turbo": "^8.0.10",
-    "@tailwindcss/cli": "4.0.0-beta.2",
-    "@tailwindcss/forms": "^0.5.9",
-    "@tailwindcss/postcss": "4.0.0-beta.2",
-    "@tailwindcss/typography": "^0.5.15",
+    "@hotwired/turbo": "^8.0.13",
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/postcss": "^4.0.13",
+    "@tailwindcss/typography": "^0.5.16",
     "alpine-turbo-drive-adapter": "^2.1.0",
-    "alpinejs": "^3.14.1",
-    "postcss-cli": "^10.1.0",
-    "tailwindcss": "4.0.0-beta.2"
+    "alpinejs": "^3.14.9",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "4.0.12"
   },
   "name": "mmatokovic",
   "version": "0.1.0"
