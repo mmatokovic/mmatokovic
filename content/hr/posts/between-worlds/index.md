@@ -4,6 +4,7 @@ date = 2024-11-11T22:57:42+01:00
 draft = false
 tags = ['historical','trance']
 series = 'Rock art'
+thumbnail = 'trance-dance.jpg'
 +++
 
 One of the most important rituals in the San religion is the great dance, or the trance dance. This dance typically takes a circular form, with women clapping and singing and men dancing rhythmically. Although there is no evidence that the Kalahari San use hallucinogens regularly, student shaman may use hallucinogens to go into trance for the first time.[9]
