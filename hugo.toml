@@ -11,7 +11,6 @@ enableEmoji = true
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
   turbo = true
-  gallery = true
   [params.author]
     name = "mmatokovic"
     email = 'me@mmatokovic.dev'
@@ -46,10 +45,6 @@ enableEmoji = true
         pageRef = '/posts'
         weight = 20
       [[languages.hr.menus.main]]
-        name = 'Galerija'
-        pageRef = '/galleries'
-        weight = 30
-      [[languages.hr.menus.main]]
         name = 'Kontaktiraj me'
         pageRef = '/contact'
         weight = 40
@@ -61,10 +56,6 @@ enableEmoji = true
         name = 'Teme'
         pageRef = '/tags'
         weight = 70
-      [[languages.hr.menus.main]]
-        name = 'Moja Knjižnica'
-        pageRef = '/books'
-        weight = 60
   [languages.en]
     languageCode = 'en'
     languageName = 'English'
@@ -91,10 +82,6 @@ enableEmoji = true
         name = 'Topics'
         pageRef = '/tags'
         weight = 70
-      [[languages.en.menus.main]]
-        name = 'My Library'
-        pageRef = '/books'
-        weight = 60
 
 [frontmatter]
   date = ['date', 'publishDate', 'pubdate', 'lastmod', 'modified']
@@ -105,7 +92,7 @@ enableEmoji = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.139.0"
+    min = "0.145.0"
   [[module.mounts]]
     source = "assets"
     target = "assets"
