@@ -7,6 +7,10 @@ enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-CV3ZRVVWGW'
+
 [params]
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
