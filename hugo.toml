@@ -12,14 +12,11 @@ enableEmoji = true
     id = 'G-CV3ZRVVWGW'
 
 [params]
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ligula a mauris laoreet, interdum volutpat magna sollicitudin."
   alpine = true
   turbo = true
   [params.author]
-    name = "mmatokovic"
+    name = "Mislav Matoković"
     email = 'me@mmatokovic.dev'
-    github = ''
-    linkedin = ''
 
 [privacy]
   [privacy.youTube]
@@ -43,6 +40,8 @@ enableEmoji = true
     label = 'Hrvatski'
     contentDir = 'content/hr'
     weight = 1
+    [languages.hr.params]
+      description = 'Misli je blog Mislava Matokovića o povijesti, prapovijesnoj umjetnosti i znanosti.'
     [languages.hr.menus]
       [[languages.hr.menus.main]]
         name = 'Početna'
@@ -69,6 +68,8 @@ enableEmoji = true
     label = 'English'
     contentDir = 'content/en'
     weight = 2
+    [languages.en.params]
+      description = "Misli is Mislav Matoković's blog about history, prehistoric art and science."
     [languages.en.menus]
       [[languages.en.menus.main]]
         name = 'Home'

@@ -1,2 +1,5 @@
 https://mmatokovic.netlify.app  https://misli.mmatokovic.dev 301!
 http://mmatokovic.netlify.app  https://misli.mmatokovic.dev 301!
+/tags/historical/*  /tags/povijest/:splat  301
+/tags/trance/*  /tags/trans/:splat  301
+/series/rock-art/*  /series/umjetnost-na-stijenama/:splat  301

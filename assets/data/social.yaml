@@ -1,7 +1,2 @@
-- name: x
-  url: 'https://twitter.com/x'
 - name: github
   url: 'https://github.com/mmatokovic'
-- name: linkedin
-  url: 'https://linkedin.com/xyz'
-
