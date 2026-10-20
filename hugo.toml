@@ -136,17 +136,15 @@ enableEmoji = true
   source = 'layouts/.*'
   target = 'css'
 
-# Set markup.goldmark.parser.wrapStandAloneImageWithinParagraph = false so standalone images will not be wrapped in <p>>/p> tags. Also set block = true to support attributes on block elements:
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true # Allow HTML in md files
+      unsafe = true
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
         block = true
 
-# Hugo runs Node tools under the Node.js permission model; the Tailwind CLI needs addon and worker access.
 [security.node.permissions]
   allowAddons = ['tailwindcss']
   allowWorker = ['tailwindcss']
