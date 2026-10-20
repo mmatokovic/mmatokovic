@@ -1,9 +1,9 @@
 +++
-title = 'Kontaktiraj Me'
+title = 'Kontaktiraj me'
 slug = 'kontakt'
 type = 'miscellaneous'
 +++
 
-Hello, Thanks so much for stopping by! If you have any questions or just want to say 'hi', please feel free to send an email to [me@mmatokovic.dev ](mailto:me@mmatokovic.dev) or fill out the following form, and I'll get back to you as soon as I can.
+Pozdrav i hvala što ste svratili! Ako imate pitanja ili se samo želite javiti, slobodno mi pišite na [me@mmatokovic.dev](mailto:me@mmatokovic.dev) ili ispunite obrazac ispod, a ja ću vam odgovoriti čim budem mogao.
 
 {{< contact >}}

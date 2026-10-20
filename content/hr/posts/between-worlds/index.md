@@ -1,14 +1,16 @@
 +++
-title = 'Between Worlds: The Trance States of San Shamans'
+title = 'Između svjetova: trans kod šamana naroda San'
 date = 2024-11-11T22:57:42+01:00
 draft = false
-tags = ['historical','trance']
-series = 'Rock art'
+tags = ['povijest', 'trans']
+series = 'Umjetnost na stijenama'
 thumbnail = 'trance-dance.jpg'
 +++
 
-One of the most important rituals in the San religion is the great dance, or the trance dance. This dance typically takes a circular form, with women clapping and singing and men dancing rhythmically. Although there is no evidence that the Kalahari San use hallucinogens regularly, student shaman may use hallucinogens to go into trance for the first time.[9]
+Da bi ušao u svijet duhova, šaman mora izazvati trans, i to lovom na duha zaštitnika ili životinju moći. Tu ulogu često ima antilopa eland. Njezina se mast simbolično koristi u mnogim ritualima, uključujući inicijacije i obrede prijelaza. Istu ulogu mogu imati i druge životinje, poput žirafe, kudua i buvolje antilope.
 
-Psychologists have investigated hallucinations and altered states of consciousness in neuropsychology. They found that entoptic phenomena can occur through rhythmic dancing, music, sensory deprivation, hyperventilation, prolonged and intense concentration and migraines.[10] The psychological approach explains rock art through three trance phases. In the first phase of trance an altered state of consciousness would come about. People would experience geometric shapes commonly known as entoptic phenomena. These would include zigzags, chevrons, dots, flecks, grids, vortices and U-shapes. These shapes can be found especially in rock engravings of Southern Africa.
+Jedan od najvažnijih rituala u religiji naroda San jest veliki ples, odnosno ples transa. Obično se izvodi u krugu: žene plješću i pjevaju, a muškarci ritmično plešu. Iako nema dokaza da Sani iz Kalaharija redovito koriste halucinogene, šaman u obuci može ih upotrijebiti kako bi prvi put ušao u trans.
 
-During the second phase of trance people try to make sense of the entoptic phenomena. They would elaborate the shape they had 'seen' until they had created something that looked familiar to them. Shamans experiencing the second phase of trance would incorporate the natural world into their entoptic phenomena, visualizing honeycombs or other familiar shapes.
+Psiholozi su u okviru neuropsihologije proučavali halucinacije i izmijenjena stanja svijesti. Utvrdili su da entoptičke pojave mogu izazvati ritmičan ples, glazba, osjetilna deprivacija, hiperventilacija, dugotrajna i snažna koncentracija te migrene. Psihološki pristup objašnjava umjetnost na stijenama kroz tri faze transa. U prvoj fazi nastupa izmijenjeno stanje svijesti i ljudi vide geometrijske oblike poznate kao entoptičke pojave: cik-cak linije, ševrone, točke, mrlje, mreže, vrtloge i oblike slova U. Takvi se oblici osobito često pojavljuju u gravurama na stijenama južne Afrike.
+
+U drugoj fazi transa ljudi pokušavaju dati smisao entoptičkim pojavama. Oblike koje su „vidjeli” razrađuju sve dok ne nalikuju nečemu poznatom. Šamani u drugoj fazi u te vizije unose prirodni svijet pa vide, primjerice, saće ili druge poznate oblike.

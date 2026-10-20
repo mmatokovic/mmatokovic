@@ -4,8 +4,8 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 +++
 
-mmatokovic.dev Mislav Matoković. I’m a software developer from Croatia.
+I'm Mislav Matoković, a software developer from Croatia.
 
-Find me at GitHub, LinkedIn. When I have something clever to say, I scribble it down.
+You can find me on GitHub and LinkedIn. When I have something clever to say, I write it down here.
 
-You can reach me at me@mmatokovic.dev.
+You can reach me at [me@mmatokovic.dev](mailto:me@mmatokovic.dev).
