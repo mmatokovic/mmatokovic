@@ -17,6 +17,7 @@ The story of Earth's age is a fascinating journey through time, blending mytholo
 As the scientific revolution gained momentum, the reliance on mythology began to wane. One of the key turning points in geology came with the work of **James Hutton**, a Scottish geologist in the late 18th century. Hutton proposed the **Theory of the Earth**, which argued that the Earth was much older than previously believed. He introduced the concept of **uniformitarianism**, the idea that the Earth's geological processes are gradual and consistent over time. According to Hutton, the present is the key to understanding the past—a notion that challenged the prevailing biblical timeline and laid the foundation for modern geology.
 
 Would love if you can take time to watch this video:
+
 {{< youtube mPFpaGFlqHo >}}
 
 However, not all early geologists agreed with this idea. The theory of **catastrophism**, which suggested that Earth's features were shaped by sudden, violent events (such as Noah's flood), remained popular for some time. **Charles Lyell**, an English geologist, further refined Hutton's ideas in his groundbreaking work _Principles of Geology_ (1830-1833)[^1]. Lyell argued strongly for uniformitarianism, positing that geological processes observed today, such as erosion and sedimentation, were responsible for shaping the Earth over vast periods of time.
