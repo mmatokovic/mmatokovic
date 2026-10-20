@@ -21,6 +21,14 @@ enableEmoji = true
     github = ''
     linkedin = ''
 
+[privacy]
+  [privacy.youTube]
+    privacyEnhanced = true
+
+[[cascade]]
+  [cascade.build]
+    publishResources = false
+
 [pagination]
   pagerSize = 9
 

@@ -225,7 +225,7 @@ With a reference later in the document defining the URL location:
 
 ## Videos
 
-{{< youtube mPFpaGFlqHo >}}
+{{< youtube id=mPFpaGFlqHo loading=lazy >}}
 
 ## Comments
 

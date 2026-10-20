@@ -18,7 +18,7 @@ As the scientific revolution gained momentum, the reliance on mythology began to
 
 Would love if you can take time to watch this video:
 
-{{< youtube mPFpaGFlqHo >}}
+{{< youtube id=mPFpaGFlqHo loading=lazy >}}
 
 However, not all early geologists agreed with this idea. The theory of **catastrophism**, which suggested that Earth's features were shaped by sudden, violent events (such as Noah's flood), remained popular for some time. **Charles Lyell**, an English geologist, further refined Hutton's ideas in his groundbreaking work _Principles of Geology_ (1830-1833)[^1]. Lyell argued strongly for uniformitarianism, positing that geological processes observed today, such as erosion and sedimentation, were responsible for shaping the Earth over vast periods of time.
 
