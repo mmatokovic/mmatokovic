@@ -3,6 +3,7 @@ locale = 'hr'
 title = 'Misli'
 titleCaseStyle = 'firstupper'
 defaultContentLanguage = 'hr'
+theme = 'sleeve'
 enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
@@ -108,8 +109,6 @@ enableEmoji = true
   publishDate = ['publishDate', 'pubdate', 'date']
 
 [module]
-  [[module.imports]]
-    path = 'github.com/mmatokovic/sleeve'
   [module.hugoVersion]
     extended = true
     min = "0.168.0"
