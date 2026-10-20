@@ -1,0 +1,5 @@
+allowBuilds:
+  '@parcel/watcher': false
+# Hugo locates Node tools by parsing node_modules/.bin shims; the NODE_PATH line pnpm adds breaks that lookup.
+extendNodePath: false
+nodeLinker: hoisted

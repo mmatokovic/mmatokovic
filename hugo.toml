@@ -1,5 +1,5 @@
 baseURL = 'https://misli.mmatokovic.dev/'
-languageCode = 'hr'
+locale = 'hr'
 title = 'Misli'
 defaultContentLanguage = 'hr'
 theme = 'sleeve'
@@ -20,10 +20,6 @@ enableEmoji = true
     email = 'me@mmatokovic.dev'
     github = ''
     linkedin = ''
-  [params.gallerydeluxe]
-    shuffle     = false
-    reverse     = true
-    enable_exif = false
 
 [pagination]
   pagerSize = 9
@@ -35,8 +31,8 @@ enableEmoji = true
 
 [languages]
   [languages.hr]
-    languageCode = 'hr'
-    languageName = 'Hrvatski'
+    locale = 'hr'
+    label = 'Hrvatski'
     contentDir = 'content/hr'
     weight = 1
     [languages.hr.menus]
@@ -61,13 +57,13 @@ enableEmoji = true
         pageRef = '/tags'
         weight = 70
   [languages.en]
-    languageCode = 'en'
-    languageName = 'English'
+    locale = 'en'
+    label = 'English'
     contentDir = 'content/en'
     weight = 2
     [languages.en.menus]
       [[languages.en.menus.main]]
-        name = 'Početna'
+        name = 'Home'
         pageRef = '/'
         weight = 10
       [[languages.en.menus.main]]
@@ -96,7 +92,7 @@ enableEmoji = true
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.145.0"
+    min = "0.168.0"
   [[module.mounts]]
     source = "assets"
     target = "assets"
@@ -141,3 +137,10 @@ enableEmoji = true
       wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
         block = true
+
+# Hugo runs Node tools under the Node.js permission model; the Tailwind CLI needs addon and worker access.
+[security.node.permissions]
+  allowAddons = ['tailwindcss']
+  allowWorker = ['tailwindcss']
+[security.exec]
+  allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
