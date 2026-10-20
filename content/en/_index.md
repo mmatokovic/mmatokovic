@@ -6,6 +6,6 @@ draft = false
 
 I'm Mislav Matoković, a software developer from Croatia.
 
-You can find me on GitHub and LinkedIn. When I have something clever to say, I write it down here.
+You can find me on [GitHub](https://github.com/mmatokovic). When I have something clever to say, I write it down here.
 
 You can reach me at [me@mmatokovic.dev](mailto:me@mmatokovic.dev).

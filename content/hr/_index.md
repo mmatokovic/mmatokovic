@@ -6,6 +6,6 @@ draft = false
 
 Ja sam Mislav Matoković, softverski programer iz Hrvatske.
 
-Možete me pronaći na GitHubu i LinkedInu. Kad imam nešto pametno za reći, zapišem to ovdje.
+Možete me pronaći na [GitHubu](https://github.com/mmatokovic). Kad imam nešto pametno za reći, zapišem to ovdje.
 
 Javite mi se na [me@mmatokovic.dev](mailto:me@mmatokovic.dev).
