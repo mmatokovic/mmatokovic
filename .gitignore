@@ -1,9 +1,4 @@
 /node_modules
-package.hugo.json
-
-/coverage
-
-/.next/
 /.vscode/
 
 /public

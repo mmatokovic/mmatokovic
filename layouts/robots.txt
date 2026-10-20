@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /404.html
-Disallow: /admin/
-
-Sitemap: {{ "sitemap.xml" | absURL }}

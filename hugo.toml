@@ -1,5 +1,5 @@
 baseURL = 'https://misli.mmatokovic.dev/'
-locale = 'hr'
+locale = 'hr-HR'
 title = 'Misli'
 titleCaseStyle = 'firstupper'
 defaultContentLanguage = 'hr'
@@ -16,7 +16,6 @@ enableEmoji = true
   alpine = true
   turbo = true
   favicon = 'favicon.ico'
-  manifest = 'site.webmanifest'
   [params.license]
     name = 'CC BY 3.0'
     url = 'https://creativecommons.org/licenses/by/3.0/'
@@ -40,11 +39,10 @@ enableEmoji = true
 [taxonomies]
   tag = 'tags'
   series = 'series'
-  genre = 'genres'
 
 [languages]
   [languages.hr]
-    locale = 'hr'
+    locale = 'hr-HR'
     label = 'Hrvatski'
     contentDir = 'content/hr'
     weight = 1
@@ -73,7 +71,7 @@ enableEmoji = true
         pageRef = '/tags'
         weight = 70
   [languages.en]
-    locale = 'en'
+    locale = 'en-US'
     label = 'English'
     contentDir = 'content/en'
     weight = 2
@@ -110,17 +108,10 @@ enableEmoji = true
 
 [module]
   [module.hugoVersion]
-    extended = true
     min = "0.168.0"
   [[module.mounts]]
     source = "assets"
     target = "assets"
-  [[module.mounts]]
-    source = "layouts"
-    target = "layouts"
-  [[module.mounts]]
-    source = "data"
-    target = "data"
   [[module.mounts]]
     source       = "hugo_stats.json"
     target       = "assets/notwatching/hugo_stats.json"
@@ -130,9 +121,6 @@ enableEmoji = true
   enable = true
 [[build.cachebusters]]
   source = "assets/notwatching/hugo_stats\\.json"
-  target = "css"
-[[build.cachebusters]]
-  source = "(postcss|tailwind)\\.config\\.js"
   target = "css"
 [[build.cachebusters]]
   source = 'layouts/.*'
@@ -151,4 +139,4 @@ enableEmoji = true
   allowAddons = ['tailwindcss']
   allowWorker = ['tailwindcss']
 [security.exec]
-  allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+  allow = ['^git$', '^node$', '^tailwindcss$']
