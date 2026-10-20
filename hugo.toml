@@ -1,6 +1,7 @@
 baseURL = 'https://misli.mmatokovic.dev/'
 locale = 'hr'
 title = 'Misli'
+titleCaseStyle = 'firstupper'
 defaultContentLanguage = 'hr'
 theme = 'sleeve'
 enableRobotsTXT = true
@@ -14,6 +15,13 @@ enableEmoji = true
 [params]
   alpine = true
   turbo = true
+  favicon = 'favicon.ico'
+  manifest = 'site.webmanifest'
+  [params.license]
+    name = 'CC BY 3.0'
+    url = 'https://creativecommons.org/licenses/by/3.0/'
+  [params.contact]
+    provider = 'netlify'
   [params.author]
     name = "Mislav Matoković"
     email = 'me@mmatokovic.dev'
@@ -42,6 +50,7 @@ enableEmoji = true
     weight = 1
     [languages.hr.params]
       description = 'Misli je blog Mislava Matokovića o povijesti, prapovijesnoj umjetnosti i znanosti.'
+      intro = 'Ja sam Mislav i volim pisati kad imam slobodnog vremena.'
     [languages.hr.menus]
       [[languages.hr.menus.main]]
         name = 'Početna'
@@ -70,6 +79,7 @@ enableEmoji = true
     weight = 2
     [languages.en.params]
       description = "Misli is Mislav Matoković's blog about history, prehistoric art and science."
+      intro = "I'm Mislav, and I like to write when I have free time."
     [languages.en.menus]
       [[languages.en.menus.main]]
         name = 'Home'
@@ -115,15 +125,6 @@ enableEmoji = true
     source       = "hugo_stats.json"
     target       = "assets/notwatching/hugo_stats.json"
     disableWatch = true
-  [[module.mounts]]
-    source = "node_modules/alpinejs/dist"
-    target = "assets/js/libs/alpinejs"
-  [[module.mounts]]
-    source = "node_modules/alpine-turbo-drive-adapter/dist"
-    target = "assets/js/libs/alpinejs-turbolinks"
-  [[module.mounts]]
-    source = "node_modules/@hotwired/turbo/dist"
-    target = "assets/js/libs/turbo"
 
 [build.buildStats]
   enable = true
