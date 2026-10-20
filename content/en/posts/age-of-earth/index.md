@@ -44,7 +44,7 @@ By the early 20th century, advances in dating methods provided concrete evidence
 
 In addition to the geological discoveries, the fossil record began to show evidence of early human ancestors. The discovery of **Lucy**, an early hominin, in 1974 further cemented the idea that human evolution had been under way for millions of years. Lucy, an **Australopithecus afarensis**, lived around 3.2 million years ago and walked upright — an essential step in the evolution of humanity.
 
-![Reconstruction of the fossil skeleton of "Lucy" the Australopithecus afarensis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/220px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg "Australopithecus afarensis")
+![Reconstruction of the fossil skeleton of "Lucy" the Australopithecus afarensis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/330px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg "Australopithecus afarensis")
 
 ### Conclusion
 

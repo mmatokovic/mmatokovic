@@ -44,7 +44,7 @@ Početkom 20. stoljeća napredak metoda datiranja pružio je konkretne dokaze o 
 
 Osim geoloških otkrića, fosilni zapis počeo je pokazivati i tragove ranih ljudskih predaka. Otkriće **Lucy**, ranog hominina, 1974. dodatno je učvrstilo ideju da ljudska evolucija traje milijunima godina. Lucy, pripadnica vrste **Australopithecus afarensis**, živjela je prije otprilike 3,2 milijuna godina i hodala uspravno — što je ključan korak u evoluciji čovjeka.
 
-![Rekonstrukcija fosilnog kostura „Lucy”, vrste Australopithecus afarensis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/220px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg "Australopithecus afarensis")
+![Rekonstrukcija fosilnog kostura „Lucy”, vrste Australopithecus afarensis](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/330px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg "Australopithecus afarensis")
 
 ### Zaključak
 
