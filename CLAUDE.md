@@ -70,7 +70,7 @@ Turbo Drive replaces the body on navigation, so:
 CI (`.github/workflows/build.yml`) builds the site with `--panicOnWarning`, so a broken internal link fails the build.
 Run the same locally with `hugo --gc --minify --panicOnWarning`. Netlify builds with the same flag, so a broken build never deploys.
 
-`.github/workflows/links.yml` checks external links in `content/` every Monday and opens a `Broken external links` issue instead of failing a build.
+`.github/workflows/links.yml` checks external links in `content/` every Monday; a broken one fails the run and GitHub emails the failure (issues are disabled on this repo). Internal links are left to Hugo.
 Dependabot (`.github/dependabot.yml`) opens monthly PRs for GitHub Actions, npm packages and the theme submodule; Hugo is updated by hand in `netlify.toml`.
 
 Headless Chrome and Edge cannot open a remote-debugging port on this machine; to check page behaviour, load the `hugo server` pages in jsdom.
