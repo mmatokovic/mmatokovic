@@ -24,6 +24,9 @@ enableEmoji = true
   [params.author]
     name = "Mislav Matoković"
     email = 'me@mmatokovic.dev'
+  [params.copyright]
+    name = 'mmatokovic'
+    url = 'https://github.com/mmatokovic'
 
 [privacy]
   [privacy.youTube]
