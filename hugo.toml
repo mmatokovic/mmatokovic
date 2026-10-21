@@ -52,6 +52,7 @@ enableEmoji = true
     [languages.hr.params]
       description = 'Misli je blog Mislava Matokovića o povijesti, prapovijesnoj umjetnosti i znanosti.'
       intro = 'Ja sam Mislav i volim pisati kad imam slobodnog vremena.'
+      reading_speed = 180
     [languages.hr.menus]
       [[languages.hr.menus.main]]
         name = 'Početna'
@@ -81,6 +82,7 @@ enableEmoji = true
     [languages.en.params]
       description = "Misli is Mislav Matoković's blog about history, prehistoric art and science."
       intro = "I'm Mislav, and I like to write when I have free time."
+      reading_speed = 228
     [languages.en.menus]
       [[languages.en.menus.main]]
         name = 'Home'
