@@ -132,6 +132,7 @@ enableEmoji = true
       unsafe = true
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
+      autoHeadingIDType = 'github-ascii'
       [markup.goldmark.parser.attribute]
         block = true
 
