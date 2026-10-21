@@ -15,6 +15,7 @@ Versions are pinned in one place each: Hugo in `netlify.toml` (`HUGO_VERSION`), 
 
 Croatian is the default language and lives at the site root (`content/hr`, posts under `/objave/`); English is under `/en/` (`content/en`, posts under `/en/posts/`).
 Every post exists in both languages as a page bundle with the same folder name.
+Start one with `hugo new content content/hr/posts/<slug>/index.md` (and the same under `content/en`); `archetypes/posts.md` fills in the front matter.
 
 ## What only works on the deployed site
 
@@ -67,7 +68,10 @@ Turbo Drive replaces the body on navigation, so:
 ## Checks
 
 CI (`.github/workflows/build.yml`) builds the site with `--panicOnWarning`, so a broken internal link fails the build.
-Run the same locally with `hugo --gc --minify --panicOnWarning`.
+Run the same locally with `hugo --gc --minify --panicOnWarning`. Netlify builds with the same flag, so a broken build never deploys.
+
+`.github/workflows/links.yml` checks external links in `content/` every Monday and opens a `Broken external links` issue instead of failing a build.
+Dependabot (`.github/dependabot.yml`) opens monthly PRs for GitHub Actions, npm packages and the theme submodule; Hugo is updated by hand in `netlify.toml`.
 
 Headless Chrome and Edge cannot open a remote-debugging port on this machine; to check page behaviour, load the `hugo server` pages in jsdom.
 
