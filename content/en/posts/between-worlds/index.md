@@ -15,23 +15,23 @@ We know this in unusual detail. In the 19th century, /Xam San men explained thei
 
 ![San rock painting of a group of human figures and an antelope](trance-dance.jpg "San rock painting of a group of figures, of the kind often read as a trance dance")
 
-### Potency: The Word Behind "Sorcerer"
+## Potency: The Word Behind "Sorcerer"
 
 Lucy Lloyd translated the /Xam word as "sorcerer", but the idea is more subtle. **!gi** means a supernatural potency: an invisible essence that lives in powerful animals, in things, and above all in certain people, the **!gi:ten**. They can use it for good or ill. Among the Kalahari Ju/'hoansi the equivalent is **n/om**, and a healer is an owner of n/om. People speak of giraffe potency, honey potency, sun potency and, most desired of all, eland potency.[^1] "Medicine" in the Native American sense is a closer match than "sorcerer". It means power, not a pill.
 
-### The Dance
+## Dancing Until Dawn
 
 The dance is how potency gets activated. A fire burns at the centre, and the women's sharp, rhythmic clapping and "medicine songs" heat the potency until it "boils" up the dancer's spine. The dead hover beyond the firelight and shoot "arrows of sickness" at the living. The healers lay their hands on the sick, draw the sickness into their own bodies, and expel it through a hole at the nape of the neck.[^1]
 
 **Qing**, a San man who guided the magistrate **Joseph Millard Orpen** through the Maloti mountains in 1873, described the dance in the same terms: men and women dancing in a circle all night, some falling down, some acting as if mad or sick, and blood running from the noses of others. When a man was sick, the dancers pressed their hands under his armpits until he coughed up what hurt him.[^2]
 
-### What the Shaman Experiences
+## What the Shaman Experiences
 
 In deep trance the shaman trembles, may fall rigid, and says his spirit leaves through a hole in the top of the head. It travels out of the body to meet the spirits and the dead, which is why people say the shaman "has died".[^1] Bleeding noses, sweat, antelope-headed men and the bent-forward posture all show up in the Drakensberg paintings, and that is how researchers match the paintings to these accounts.
 
 The idea of a soul leaving through the crown of the head turns up elsewhere too. Hindu texts speak of the **brahmarandhra**, an opening at the top of the skull. Tibetan Buddhist _phowa_ practice aims at sending consciousness out that way at death. Robert L. Hall collected Native American parallels: the Hopi called the infant's soft spot, the fontanelle, the _kopavi_, the "open door", and the Shawnee believed the soul entered the unborn child through it.[^3] These parallels are suggestive but no more than that. They show that the same bodily image recurs, not that these traditions share an origin.
 
-### The Three Stages of Trance
+## The Three Stages of Trance
 
 The neuropsychological model that **David Lewis-Williams** and **Thomas Dowson** built has been influential, and also controversial.[^4] Psychologists have studied hallucinations and altered states of consciousness in the field of neuropsychology. They found that entoptic phenomena can be brought on by rhythmic dancing, music, sensory deprivation, hyperventilation, prolonged and intense concentration, and migraines. The model explains rock art through three phases of trance.
 
@@ -43,7 +43,7 @@ In the third phase, a spinning vortex or tunnel draws the subject in. Geometric 
 
 Critics object that the model was built on southern African evidence and then applied to the caves of Europe, and that it can make every image look like a vision. I come back to that question at the end of [Painted Visions](/posts/south-african-rock-art). The San evidence is the best-documented case, and the idea that much of their art is bound up with trance has held up better there than anywhere else.
 
-### Conclusion
+## Conclusion
 
 The San shaman's trance gives us something rare: an account of altered states from inside the tradition that painted them. Potency, the dance, the journey through the top of the head and the healing on return fit together into one picture, and the paintings show its pieces. It changed the question we ask of rock art from "what are these pictures of?" to "what were their makers experiencing?"
 

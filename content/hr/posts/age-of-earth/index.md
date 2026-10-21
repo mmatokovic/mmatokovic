@@ -14,7 +14,7 @@ Priča o starosti Zemlje fascinantno je putovanje kroz vrijeme u kojem se isprep
 
 Vrijedi zapamtiti da taj datum nije samo zanimljivost. Pokazuje koliko su se Europljani nekoć potpuno oslanjali na Sveto pismo kad je riječ o podrijetlu čovječanstva. Velik dio onoga što slijedi priča je o tome kako je to oslanjanje ustuknulo pred dokazima. To je ujedno i pozadina koja vam treba ako želite razumjeti zašto su [umjetnost na stijenama](/posts/south-african-rock-art) i umovi koji su je stvorili toliko važni za proučavanje religije.
 
-### Od mitologije prema znanosti
+## Od mitologije prema znanosti
 
 Znanstvena revolucija postupno je oslabila stisak Svetog pisma nad prirodoslovljem. **Newton** je objasnio gibanje planeta, a **Galileo** je teleskopom pokazao da Zemlja nije središte svemira. Neki su mislioci počeli na isti način istraživati i tlo pod svojim nogama.
 
@@ -26,17 +26,17 @@ Bilo bi mi drago da odvojite vrijeme i pogledate ovaj video:
 
 {{< youtube id=mPFpaGFlqHo loading=lazy >}}
 
-Nisu se svi rani geolozi slagali. Katastrofizam, sa svojom geologijom potopa, još je neko vrijeme ostao popularan. Upravo je **Charles Lyell**, engleski geolog, od Huttonovih ideja stvorio stručnu znanost. Njegova _Načela geologije_ (_Principles of Geology_, 1830.–1833.)[^3] nosila su dugačak podnaslov koji sažima cijeli program: pokušaj da se nekadašnje promjene Zemljine površine objasne uzrocima koji djeluju i danas. Proučavao je vulkan Etnu, gdje je vidio kako su tokovi lave sloj po sloj izgradili planinu.
+Nisu se svi rani geolozi slagali. Katastrofizam, sa svojom geologijom potopa, još je neko vrijeme ostao popularan. Upravo je **Charles Lyell**, engleski geolog, od Huttonovih ideja stvorio stručnu znanost. Njegovi _Principi geologije_ (_Principles of Geology_, 1830.–1833.)[^3] nosili su dugačak podnaslov koji sažima cijeli program: pokušaj da se nekadašnje promjene Zemljine površine objasne uzrocima koji djeluju i danas. Proučavao je vulkan Etnu, gdje je vidio kako su tokovi lave sloj po sloj izgradili planinu.
 
-### Serapisov hram
+## Serapisov hram
 
-Na naslovnoj ilustraciji Lyellove knjige tri stupa stoje u vodi. Pripadaju takozvanom **Serapisovu hramu** (zapravo rimskoj tržnici) u **Pozzuoliju** u Napuljskom zaljevu. Stupove su izbušili morski školjkaši, koji su na određenoj visini ostavili pojas rupa. Hram je, dakle, morao biti sagrađen na kopnu, zatim potonuti ispod mora dovoljno dugo da školjkaši obave svoje, a onda se ponovno izdići. Lyell je to uzeo kao dokaz da se samo tlo diže i spušta, postupno i još i danas. Bio je to odlučan udarac ideji o nepromjenjivoj Zemlji.
+Na naslovnoj ilustraciji Lyellove knjige tri stupa stoje u vodi. Pripadaju takozvanom **Serapisovu hramu** (zapravo rimskoj tržnici, Macellumu) u **Pozzuoliju** u Napuljskom zaljevu. Stupove su izbušili morski školjkaši, koji su na određenoj visini ostavili pojas rupa. Hram je, dakle, morao biti sagrađen na kopnu, zatim potonuti ispod mora dovoljno dugo da školjkaši obave svoje, a onda se ponovno izdići. Lyell je to uzeo kao dokaz da se samo tlo diže i spušta, postupno i još i danas; geolozi tu pojavu danas nazivaju **bradiseizmom**. Bio je to odlučan udarac ideji o nepromjenjivoj Zemlji.
 
-Lyell je promatrao i kako se talog nakuplja danas, a zatim razmotrio koliko ga sadrže slojevi stijena diljem svijeta. Gruba procjena daje Zemlji starost od milijuna godina. Upravo je toliko vremena trebalo **Darwinu**, koji je _Načela_ čitao na svojem putovanju, da bi evolucija mogla djelovati.
+Lyell je promatrao i kako se talog nakuplja danas, a zatim razmotrio koliko ga sadrže slojevi stijena diljem svijeta. Gruba procjena daje Zemlji starost od milijuna godina. Upravo je toliko vremena trebalo **Darwinu**, koji je _Principe_ čitao na svojem putovanju, da bi evolucija mogla djelovati.
 
 ![Stupovi u Pozzuoliju](330px-charles_lyell_-_pillars_of_pozzuoli.jpg "Stupovi u Pozzuoliju")
 
-### Charles Darwin i evolucija
+## Charles Darwin i evolucija
 
 U 19. stoljeću rad **Charlesa Darwina** dodao je novi sloj razumijevanju povijesti Zemlje. Darwinova temeljna knjiga _Postanak vrsta_ (_On the Origin of Species_, 1859.)[^4] predstavila je teoriju evolucije prirodnim odabirom. Na putovanju oko svijeta brodom **HMS Beagle** primijetio je da se srodne vrste razlikuju na načine koji odgovaraju njihovu okolišu. Zebe s Galápagosa imaju kljunove prilagođene prehrani. Divovske kornjače razlikuju se oblikom oklopa od otoka do otoka: one sa sedlastim oklopom žive na suhim otocima, gdje hrana visi visoko, a one s kupolastim oklopom ondje gdje trave ima u izobilju.
 
@@ -44,11 +44,11 @@ Darwin je pomno proučavao i pripitomljavanje. Golubovi, psi, goveda i usjevi go
 
 Darwinove ideje bile su kontroverzne, osobito kad je riječ o evoluciji čovjeka. S nekima se mučio i sam Darwin; 1860. napisao je botaničaru **Asi Grayu**: _„Pogled na pero paunova repa, kad god ga promatram, izaziva mi mučninu!”_[^5] Rep ga je mučio jer ga prirodni odabir sam nije mogao objasniti. Odgovor je u djelu _Podrijetlo čovjeka_ (_The Descent of Man_, 1871.) pronašao u **spolnom odabiru**: osobine poput paunova raskošnog repa razvijaju se jer privlače partnere, čak i ako izravno ne pomažu preživljavanju.
 
-### Rasprava u Oxfordu
+## Rasprava u Oxfordu
 
 Napetost je kulminirala u lipnju 1860. na skupu Britanskog udruženja za napredak znanosti u Oxfordu. Biskup **Samuel Wilberforce** navodno je upitao **Thomasa Huxleyja** potječe li od majmuna po djedu ili po baki. Huxley je navodno odgovorio da bi radije imao majmuna za pretka nego čovjeka koji svoje darove koristi da bi ozbiljnu znanstvenu raspravu izvrgnuo ruglu. Doslovni zapis nije sačuvan, a izvještaji se razlikuju, pa točne riječi nisu poznate.[^6] Pamti se i da je **Robert FitzRoy**, kapetan Beaglea i duboko religiozan čovjek, prosvjedovao podižući Bibliju. Pet godina poslije, 1865., oduzeo si je život.
 
-### Otkriće drevnih dokaza
+## Otkriće drevnih dokaza
 
 Dokazi o dubokoj starosti čovječanstva nakupljali su se u isto vrijeme. Godine 1856. radnici su u dolini Neander u Njemačkoj pronašli kostur u kojem je **Johann Carl Fuhlrott** prepoznao zasebnu, snažnu i arhaičnu vrstu čovjeka, s izraženim nadočnim lukovima i velikim nosom. Bio je to **neandertalac**, koji je oblikovao popularnu predodžbu o „špiljskom čovjeku”. Godine 1899. novi su **neandertalski fosili** pronađeni na **Hušnjakovu brdu** kod Krapine, gdje ih je iskopavao **Dragutin Gorjanović-Kramberger**.[^7]
 
@@ -58,7 +58,7 @@ Oko 1860. francuski paleontolog **Édouard Lartet** pronašao je kosti izumrlih 
 
 To je bilo i doba kolonijalnog širenja. Europljani su susretali žive zajednice lovaca i sakupljača, poput naroda San u Kalahariju, američkih starosjedilaca i australskih Aboridžina. Mnogi su ih smatrali preživjelim ostacima **iskonskog stanja** čovječanstva. Takav je pogled često bio pokroviteljski i pogrešan, ali je oblikovao predodžbu o prapovijesti. Sani su danas poznatiji po bogatstvu duhovnog života i [umjetnosti na stijenama povezanoj s transom](/posts/between-worlds), te po tome kako se ta umjetnost čita kao prozor u rane [religije i obrede](/posts/south-african-rock-art).
 
-### Razvoj znanstvenih metoda datiranja
+## Razvoj znanstvenih metoda datiranja
 
 Radioaktivnost je napokon omogućila mjerenje dubokog vremena. Godine 1907. **Bertram Boltwood** pokazao je da se uranij raspada u olovo i taj je omjer upotrijebio za datiranje stijena, a **Arthur Holmes** razvio je metodu sljedećih godina. **Uranij-238** raspada se u **olovo-206** s vremenom poluraspada od oko 4,47 milijardi godina, a **uranij-235** u **olovo-207** s vremenom poluraspada od oko 704 milijuna godina. Omjer izvornih i nastalih atoma u mineralu daje njegovu starost. Kristali cirkona idealni su jer pri nastanku primaju uranij, ali ne i olovo.
 
@@ -68,17 +68,17 @@ Fosilni zapis počeo je otkrivati i naše pretke. **Lucy**, pripadnica vrste **A
 
 ![Rekonstrukcija fosilnog kostura „Lucy”, vrste Australopithecus afarensis](330px-reconstruction_of_the_fossil_skeleton_of_-lucy-_the_australopithecus_afarensis.jpg "Australopithecus afarensis")
 
-### Zaključak
+## Zaključak
 
 Proučavanje starosti Zemlje iz temelja je promijenilo naše razumijevanje planeta i našeg mjesta na njemu. Od Ussherove biblijske kronologije do znanstvenih otkrića Huttona, Lyella, Darwina i drugih, geologija je izrasla u strogu znanost. Dokazi o drevnoj Zemlji danas su nepobitni, a svako novo otkriće — bilo da je riječ o fosilima, drevnim špiljskim slikama ili naprednim metodama datiranja — dodatno produbljuje naše razumijevanje duge i složene povijesti Zemlje.
 
 Znanost ipak nije uklonila potrebu za pričama o podrijetlu. Gdje je srednjovjekovna Europa imala Knjigu postanka, današnja se mašta često okreće filmovima o izvanzemaljcima koji su posijali život. Razumjeti religiju i mitologiju znači ozbiljno shvatiti i fizičke dokaze o našem podrijetlu i priče koje ljudi o njemu pričaju.
 
-[^1]: James Ussher, _Annales veteris testamenti_ (1650.); vidi [Ussher chronology](https://en.wikipedia.org/wiki/Ussher_chronology), Wikipedia.
-[^2]: James Hutton, „Theory of the Earth; or an Investigation of the Laws Observable in the Composition, Dissolution, and Restoration of Land upon the Globe”, _Transactions of the Royal Society of Edinburgh_, sv. 1 (1788.). Vidi [James Hutton](https://en.wikipedia.org/wiki/James_Hutton), Wikipedia.
-[^3]: Lyellova _Načela geologije_ (1830.–1833.) zagovarala su uniformitarizam: obilježja Zemlje oblikovali su postupni, neprekidni procesi, a ne katastrofalni događaji. Vidi [Principles of Geology](https://en.wikipedia.org/wiki/Principles_of_Geology), Wikipedia.
+[^1]: James Ussher, _Annales veteris testamenti_ (1650.); Ussherov citat prijevod je autora. Vidi [Ussher chronology](https://en.wikipedia.org/wiki/Ussher_chronology), Wikipedia.
+[^2]: James Hutton, „Theory of the Earth; or an Investigation of the Laws Observable in the Composition, Dissolution, and Restoration of Land upon the Globe”, _Transactions of the Royal Society of Edinburgh_, sv. 1 (1788.). Huttonove riječi u izvorniku glase „no vestige of a beginning, no prospect of an end”; prijevod autora. Vidi [James Hutton](https://en.wikipedia.org/wiki/James_Hutton), Wikipedia.
+[^3]: Lyellovi _Principi geologije_ (1830.–1833.) zagovarali su uniformitarizam: obilježja Zemlje oblikovali su postupni, neprekidni procesi, a ne katastrofalni događaji. Vidi [Principles of Geology](https://en.wikipedia.org/wiki/Principles_of_Geology), Wikipedia.
 [^4]: Freeman, R. B. (2007). [_Charles Darwin: A companion_](http://darwin-online.org.uk/content/frameset?itemID=A27b&viewtype=text&pageseq=114) (2. mrežno izd.). [The Complete Works of Charles Darwin Online](https://en.wikipedia.org/wiki/The_Complete_Works_of_Charles_Darwin_Online "The Complete Works of Charles Darwin Online"). str. 107, 109. [Arhivirano](https://web.archive.org/web/20141225163344/http://darwin-online.org.uk/content/frameset?itemID=A27b&viewtype=text&pageseq=114) 25. prosinca 2014. Pristupljeno 25. prosinca 2014.
-[^5]: Pismo Charlesa Darwina Asi Grayu, 3. travnja 1860., Darwin Correspondence Project. Vidi [Darwin Correspondence Project](https://www.darwinproject.ac.uk/).
+[^5]: Pismo Charlesa Darwina Asi Grayu, 3. travnja 1860., Darwin Correspondence Project. U izvorniku: „The sight of a feather in a peacock's tail, whenever I gaze at it, makes me sick!” Prijevod autora. Vidi [To Asa Gray, 3 April 1860](https://www.darwinproject.ac.uk/entry-2743).
 [^6]: Vidi [1860 Oxford evolution debate](https://en.wikipedia.org/wiki/1860_Oxford_evolution_debate), Wikipedia.
 [^7]: Vidi [Krapina Neanderthal site](https://en.wikipedia.org/wiki/Krapina_Neanderthal_site), Wikipedia.
 [^8]: Vidi [Cave of Altamira](https://en.wikipedia.org/wiki/Cave_of_Altamira), Wikipedia.
