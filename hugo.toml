@@ -126,6 +126,19 @@ enableEmoji = true
   source = 'layouts/.*'
   target = 'css'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    maxAge = '4320h'
+
+[imaging]
+  resampleFilter = 'CatmullRom'
+  anchor = 'Smart'
+  [imaging.jpeg]
+    quality = 71
+  [imaging.webp]
+    quality = 71
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

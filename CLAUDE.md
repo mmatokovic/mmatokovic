@@ -44,7 +44,7 @@ To pull the latest theme: `git submodule update --remote themes/sleeve`.
 
 ### JavaScript
 
-`assets/js/main.js` imports one module per feature from `assets/js/modules/` (`toc.js`, `search.js`, `theme-toggle.js`); each exports `init()`.
+`assets/js/main.js` imports one module per feature from `assets/js/modules/` (`toc.js`, `search.js`, `theme-toggle.js`, `lightbox.js`); each exports `init()`.
 `js.Build` bundles them into a single deferred script loaded on every page, and each module does nothing on pages without its elements.
 Keep it that way rather than loading scripts per page.
 
