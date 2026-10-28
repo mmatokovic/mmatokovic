@@ -12,14 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           submodules: true
           fetch-depth: 0
 
-      - uses: pnpm/action-setup@v6
+      - uses: pnpm/action-setup@0977fd99725f1db4007ccb2928dbb4e90d06cc86 # v6.0.10
 
-      - uses: actions/setup-node@v7
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version-file: .node-version
           cache: pnpm
@@ -29,8 +29,11 @@ jobs:
       - name: Install Hugo
         run: |
           HUGO_VERSION=$(sed -n 's/^ *HUGO_VERSION = "\(.*\)"/\1/p' netlify.toml)
-          curl -sSL -o hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
-          sudo dpkg -i hugo.deb
+          BASE="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}"
+          DEB="hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          curl -fsSL -o "$DEB" "$BASE/$DEB"
+          curl -fsSL "$BASE/hugo_${HUGO_VERSION}_checksums.txt" | grep " $DEB\$" | sha256sum -c -
+          sudo dpkg -i "$DEB"
 
       - name: Build (fails on any warning, e.g. a broken internal link)
         run: hugo --gc --minify --panicOnWarning

@@ -20,12 +20,6 @@ importers:
       '@tailwindcss/typography':
         specifier: ^0.5.20
         version: 0.5.20(tailwindcss@4.3.3)
-      alpine-turbo-drive-adapter:
-        specifier: ^2.2.0
-        version: 2.2.0
-      alpinejs:
-        specifier: ^3.17.4
-        version: 3.17.4
       tailwindcss:
         specifier: ^4.3.3
         version: 4.3.3
@@ -242,18 +236,6 @@ packages:
     resolution: {integrity: sha512-hwbzQuNUfcPvbegQFatVPl/MY/tcM9KLl963hQ5laJKPh81TEZ1+dNG9PirGvcaDBkp+BCshExAyKVPW91dozw==}
     peerDependencies:
       tailwindcss: '>=3.0.0 || >=4.0.0 || insiders'
-
-  '@vue/reactivity@3.5.44':
-    resolution: {integrity: sha512-u+QJdKeBBEADkPdevsL+6E12QlYVfBD8Zcw5qjDQKtamI6l14KyqazJMobhCKelhWN5zpyKUiEDoTyHE93cqWw==}
-
-  '@vue/shared@3.5.44':
-    resolution: {integrity: sha512-H82XLH0DjmSOdbEwO15x3QTo1f5PWEtv237eLpYKc0mqLu+B8hnq16lFWmuBmNurkeiG3wr+oM1FhOll/YVFRg==}
-
-  alpine-turbo-drive-adapter@2.2.0:
-    resolution: {integrity: sha512-mf3blh3VE9Gz7XP7c3dhJxSYa34bcNxZq8fFSN9rOoJLp12q0lhnG3TpzyC6lt696xnC37B2p2yKwRRRdHF49A==}
-
-  alpinejs@3.17.4:
-    resolution: {integrity: sha512-N2gsr+58XVUt7OAPKnUGiKPDtkd+xbSGTae8C8IJxeRdkkhBJPIautkJ+qcwb7lcjJ/QK3/CPVIbN20JPvtK7A==}
 
   braces@3.0.3:
     resolution: {integrity: sha512-yQbXgO/OSZVD2IsiLlro+7Hf6Q18EJrKSEsdoMzKePKXct3gvD8oLcOQdIzGupr5Fj+EDe8gO/lxc1BzfMpxvA==}
@@ -584,18 +566,6 @@ snapshots:
     dependencies:
       postcss-selector-parser: 6.0.10
       tailwindcss: 4.3.3
-
-  '@vue/reactivity@3.5.44':
-    dependencies:
-      '@vue/shared': 3.5.44
-
-  '@vue/shared@3.5.44': {}
-
-  alpine-turbo-drive-adapter@2.2.0: {}
-
-  alpinejs@3.17.4:
-    dependencies:
-      '@vue/reactivity': 3.5.44
 
   braces@3.0.3:
     dependencies:

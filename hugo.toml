@@ -13,7 +13,6 @@ enableEmoji = true
     id = 'G-CV3ZRVVWGW'
 
 [params]
-  alpine = true
   turbo = true
   favicon = 'favicon.ico'
   [params.license]
