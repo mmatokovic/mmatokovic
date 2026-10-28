@@ -76,4 +76,4 @@ Dependabot (`.github/dependabot.yml`) opens monthly PRs for GitHub Actions, npm 
 
 Headless Chrome and Edge cannot open a remote-debugging port on this machine; to check page behaviour, load the `hugo server` pages in jsdom.
 
-The CSP is currently `Content-Security-Policy-Report-Only`: after a deploy, check the browser console for violations, then rename the header to `Content-Security-Policy`.
+The CSP in `static/_headers` is enforced, so the browser blocks any host it does not list. Adding an embed, external image or script means adding its host to the matching directive; Alpine.js was removed so `script-src` needs no `'unsafe-eval'`.
