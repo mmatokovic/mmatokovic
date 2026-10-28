@@ -40,7 +40,8 @@ git -C themes/sleeve add -A && git -C themes/sleeve commit -m "…" && git -C th
 git add themes/sleeve && git commit -m "Update sleeve theme"
 ```
 
-To pull the latest theme: `git submodule update --remote themes/sleeve`.
+To pull the latest theme: `git submodule update --remote --merge themes/sleeve`.
+`--merge` keeps `themes/sleeve` on its `main` branch; without it the submodule ends up on a detached HEAD, and theme commits made there are on no branch.
 
 ### JavaScript
 
