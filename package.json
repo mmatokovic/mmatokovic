@@ -1,14 +1,4 @@
 {
-  "comments": {
-    "dependencies": {},
-    "devDependencies": {
-      "@hotwired/turbo": "sleeve",
-      "@tailwindcss/cli": "sleeve",
-      "@tailwindcss/forms": "sleeve",
-      "@tailwindcss/typography": "sleeve",
-      "tailwindcss": "sleeve"
-    }
-  },
   "devDependencies": {
     "@hotwired/turbo": "^8.0.23",
     "@tailwindcss/cli": "^4.3.3",
