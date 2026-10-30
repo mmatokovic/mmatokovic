@@ -7,7 +7,7 @@ Source of [misli.mmatokovic.dev](https://misli.mmatokovic.dev), a Hugo site styl
 
 ```sh
 git submodule update --init   # fetch the sleeve theme
-pnpm install                  # Tailwind CSS, Alpine.js, Turbo
+pnpm install                  # Tailwind CSS, Turbo
 hugo server                   # http://localhost:1313
 ```
 
@@ -45,7 +45,7 @@ To pull the latest theme: `git submodule update --remote --merge themes/sleeve`.
 
 ### JavaScript
 
-`assets/js/main.js` imports one module per feature from `assets/js/modules/` (`toc.js`, `search.js`, `theme-toggle.js`, `lightbox.js`); each exports `init()`.
+`themes/sleeve/assets/js/main.js` imports one module per feature from `assets/js/modules/` (table of contents, search, theme toggle, lightbox, mobile menu, back-to-top); each exports `init()`.
 `js.Build` bundles them into a single deferred script loaded on every page, and each module does nothing on pages without its elements.
 Keep it that way rather than loading scripts per page.
 
@@ -57,14 +57,14 @@ Turbo Drive replaces the body on navigation, so:
 
 ### Post search
 
-`layouts/_partials/posts-search.html` renders a lightweight list of every post in the section (cached per section and language), so the search covers all pager pages, not just the cards on screen.
-`modules/search.js` folds case and diacritics (including `đ` → `d`) before matching, and hides `[data-search-paged]` while a query is active.
+`themes/sleeve/layouts/_partials/posts-search.html` renders a lightweight list of every post in the section (cached per section and language), so the search covers all pager pages, not just the cards on screen.
+`search.js` folds case and diacritics (including `đ` → `d`) before matching, and hides `[data-search-paged]` while a query is active.
 
 ## Conventions
 
 - No comments in code.
 - Commit messages: a short imperative sentence ("Add …", "Fix …"), no type prefixes, no AI attribution lines.
-- Tailwind classes toggled only from JS are not in `hugo_stats.json`; add them with `@source inline(...)` in `assets/css/main.css`, or toggle the `hidden` attribute instead.
+- Tailwind classes toggled only from JS are not in `hugo_stats.json`; add them with `@source inline(...)` in `themes/sleeve/assets/css/main.css`, or toggle the `hidden` attribute instead.
 
 ## Checks
 
@@ -76,4 +76,4 @@ Dependabot (`.github/dependabot.yml`) opens monthly PRs for GitHub Actions, npm 
 
 Headless Chrome and Edge cannot open a remote-debugging port on this machine; to check page behaviour, load the `hugo server` pages in jsdom.
 
-The CSP in `static/_headers` is enforced, so the browser blocks any host it does not list. Adding an embed, external image or script means adding its host to the matching directive; Alpine.js was removed so `script-src` needs no `'unsafe-eval'`.
+The CSP in `static/_headers` is enforced, so the browser blocks any host it does not list. Adding an embed, external image or script means adding its host to the matching directive; there is no Alpine.js, so `script-src` needs no `'unsafe-eval'`.
